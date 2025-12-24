@@ -1,3 +1,6 @@
+Name: Sherlock.
+
+To reach me: Nearly impossible; you'd have to know me in real life or try looking for me elsewhere online.
 - Can use Python, Java.
 - Learning C++ (competitive programming), C (game dev).
 - Currently working on nothing major, just small projects to mess around.
