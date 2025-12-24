@@ -1,4 +1,7 @@
-## Hi there 👋
+- Can use Python, Java.
+- Learning C++ (competitive programming), C (game dev).
+- Currently working on nothing major, just small projects to mess around.
+- Likes making guides to learn stuff. Hasn't published any.
 
 <!--
 **SherlockWalker/SherlockWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
