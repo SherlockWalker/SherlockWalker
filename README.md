@@ -1,3 +1,5 @@
+Welcome to my digital dwelling. I create bad ideas and I display them here for the internet to see.
+
 Name: Sherlock.
 
 To reach me: Nearly impossible; you'd have to know me in real life or try looking for me elsewhere online.
