@@ -1,6 +1,20 @@
-Welcome to my digital dwelling. I create bad ideas and I display them here for the internet to see.
+<!DOCTYPE html>
+<html>
+<head>
+<link href='https://fonts.googleapis.com/css?family=Pixelify+Sans' rel='stylesheet'>
+</head>
 
-Name: Sherlock.
+
+<body>
+
+<h4>Welcome to Sherlock's digital dwelling.</h4>
+<h4>I create bad ideas and I display them here for the internet to see.</h4>
+<hr>
+
+</body>
+</html>
+
+Would like to be referred to as: Sherlock
 
 To reach me: Nearly impossible; you'd have to know me in real life or try looking for me elsewhere online.
 - Can use Python, Java.
