@@ -5,6 +5,7 @@ To reach me: Nearly impossible; you'd have to know me in real life or try lookin
 - Learning C++ (competitive programming), C (game dev).
 - Currently working on nothing major, just small projects to mess around.
 - Likes making guides to learn stuff. Hasn't published any.
+- Draws stuff. My profile picture is my own art.
 
 <!--
 **SherlockWalker/SherlockWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
