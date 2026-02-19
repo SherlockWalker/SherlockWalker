@@ -35,6 +35,7 @@ the world has given me an insatiable curiosity and a timebomb to my expiration <
 - Likes making guides to learn stuff. Hasn't published any.
 - Draws stuff. My profile picture is my own art.
 
+My goal is to learn everything and anything within sight, be it whether to help someone or to satisfy my unwavering curiosity with the world.
 </body>
 </html>
 
